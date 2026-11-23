@@ -25,7 +25,3 @@ No framework, no build step. Edit the files and push; Pages redeploys in about a
   Use lowercase English file names without spaces.
 - All paths are relative (`assets/…`), so the site also works when opened locally.
 - To preview locally: `python3 -m http.server` in this folder, then open http://localhost:8000
-
-## Open items
-- `assets/portrait.jpg` is a placeholder — replace with the real About photo (portrait, ~2:3).
-- `assets/gallery-cover.jpg` (Gallery Fieldwork banner) is a stand-in copy of the opening photo IMG_1617.
